@@ -1,0 +1,1 @@
+# Apenas bibliotecas nativas do Python 3.x (socket, threading, queue)
