@@ -13,28 +13,13 @@ Mapeamento de Serviços: Identificação automática de protocolos comuns (HTTP,
 
 Tratamento de Erros: Gestão de timeouts e exceções de conexão para estabilidade.
 
-Como Executar
 Pré-requisitos
 Python 3.6 ou superior instalado.
-
 Não requer instalação de bibliotecas externas (Battery-Included).
 
-Instalação e Uso
-
-1.Clone o repositório:
-
-git clone https://github.com/emersonsilvacybersecurity/python-port-scanner-multithread.git
-
-2.Acesse o diretório:
-cd python-port-scanner-multithread
-
-3.Execute a ferramenta:
-python "Port Scanner Multithread.py"
-
 Análise de Segurança (Disclaimer)
+
 Este script foi desenvolvido exclusivamente para fins educacionais e auditorias de segurança autorizadas.
-
 Ética: O uso desta ferramenta contra alvos sem permissão prévia é ilegal.
-
 Responsabilidade: O autor não se responsabiliza por qualquer uso indevido ou danos causados por terceiros.
 
